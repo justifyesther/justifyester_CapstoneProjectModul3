@@ -1,5 +1,3 @@
----
-
 # ***CAPSTONE PROJECT MODULE 3 - SAUDI ARABIA USED CARS***
 
 OLEH: JUSTIFY ESTER PASARIBU (JCDS 0406 006)
@@ -54,10 +52,6 @@ Dalam pengerjaan *capstone project module 3* ini tahapan sesuai dengan contoh ca
 4. *Modeling*
 5. *Conclusion*
 6. *Recommendation*
-
----
-
-> # ***1. BUSINESS PROBELM UNDERSTANDING***
 
 ***CONTEXT***
 
